@@ -56,6 +56,15 @@ h3{
     padding-left: 55px;
 }
 
+h5{
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size:  40px;
+    padding-top: 20px;
+    padding-left: 55px; 
+}
+
 p{
     text-align: center;
     font-family: "Times New Roman", Times, serif;
