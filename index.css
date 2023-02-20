@@ -56,14 +56,6 @@ p{
     font-weight: bold;
 }
 
-img{
-    padding-left: 150px;
-    padding-top: 20px;
-    width: 500px;
-    display: flex;
-    gap: 5px;
-    align-content: center;
-}
 
 .column {
     float: left;
